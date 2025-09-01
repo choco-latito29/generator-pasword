@@ -1,6 +1,6 @@
 # 🔐 Generator Password
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./license)
 [![Made with C](https://img.shields.io/badge/Made%20with-C-blue.svg)](<https://en.wikipedia.org/wiki/C_(programming_language)>)
 [![GitHub repo size](https://img.shields.io/github/repo-size/choco-latito29/generator-pasword)](https://github.com/choco-latito29/generator-pasword)
 
