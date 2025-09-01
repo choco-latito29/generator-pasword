@@ -29,7 +29,7 @@ generator-pasword/
 │── Src/
 │   └── pwgen.c       # Código fuente en C
 │── .gitignore        # Ignora binarios y archivos temporales
-│── LICENSE           # Licencia MIT
+│── license           # Licencia MIT
 │── README.md         # Documentación del proyecto
 ```
 
